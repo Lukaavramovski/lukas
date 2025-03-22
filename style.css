@@ -1,1 +1,78 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
 
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: red;
+    padding: 15px 50px;
+}
+
+header .logo img {
+    height: 50px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.limited-collection, .new-arrivals {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.products {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+.product {
+}
+
+.product img {
+}
+
+button {
+}
+
+.arrival-image {
+}
+
+.arrival-image img {
+}
+
+.arrival-text {
+}
+
+footer {
+}
+
+footer h4 {
+}
+
+footer ul {
+}
+
+footer ul li {
+}
+
+footer ul li a {
+}
